@@ -1,16 +1,14 @@
-## Hi there 👋
+##  Welcome to my Economics Data Lab 👋
 
-<!--
-**alejandroalvarez-data/alejandroalvarez-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alejandro, an economist turning data into answers about how money moves: payments, credit, liquidity, and sustainable finance in Latin America & the US.
 
-Here are some ideas to get you started:
+🔬 **In the lab right now**
+- A Colombian liquidity monitor: what interest rates and bond yields say about money in the economy
+- A credit risk analysis: which borrowers default, and what that means for lending
+- A green bond tracker for Latin American issuers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Tools:** SQL (PostgreSQL) · Power BI · R · Excel · AI-assisted analysis
+
+🎯 **Focus:** analytics for fintech and financial services
+
+📫 **Connect:** [LinkedIn](https://www.linkedin.com/in/alejandroalvarez-economics-data)
